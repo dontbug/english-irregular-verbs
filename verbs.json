@@ -1,0 +1,2202 @@
+[
+  {
+    "Base": "be",
+    "Past-simple": "was/were",
+    "Past-participle": "been",
+    "-ing-Form": "being",
+    "frequency": 2398724162,
+    "translation": {
+      "French": "être",
+      "Romanian": "a fi"
+    }
+  },
+  {
+    "Base": "have",
+    "Past-simple": "had",
+    "Past-participle": "had",
+    "-ing-Form": "having",
+    "frequency": 1564202750,
+    "translation": {
+      "French": "avoir",
+      "Romanian": "a avea"
+    }
+  },
+  {
+    "Base": "do",
+    "Past-simple": "did",
+    "Past-participle": "done",
+    "-ing-Form": "doing",
+    "frequency": 950751722,
+    "translation": {
+      "French": "faire",
+      "Romanian": "a face"
+    }
+  },
+  {
+    "Base": "see",
+    "Past-simple": "saw",
+    "Past-participle": "seen",
+    "-ing-Form": "seeing",
+    "frequency": 681410380,
+    "translation": {
+      "French": "voir",
+      "Romanian": "a vedea"
+    }
+  },
+  {
+    "Base": "get",
+    "Past-simple": "got",
+    "Past-participle": "got",
+    "-ing-Form": "getting",
+    "frequency": 605984508,
+    "translation": {
+      "French": "obtenir",
+      "Romanian": "a primi, a obține, a lua"
+    }
+  },
+  {
+    "Base": "find",
+    "Past-simple": "found",
+    "Past-participle": "found",
+    "-ing-Form": "finding",
+    "frequency": 502043038,
+    "translation": {
+      "French": "trouver",
+      "Romanian": "a găsi"
+    }
+  },
+  {
+    "Base": "go",
+    "Past-simple": "went",
+    "Past-participle": "gone",
+    "-ing-Form": "going",
+    "frequency": 421086358,
+    "translation": {
+      "French": "aller",
+      "Romanian": "a merge"
+    }
+  },
+  {
+    "Base": "buy",
+    "Past-simple": "bought",
+    "Past-participle": "bought",
+    "-ing-Form": "buying",
+    "frequency": 410780176,
+    "translation": {
+      "French": "acheter",
+      "Romanian": "a cumpăra"
+    }
+  },
+  {
+    "Base": "make",
+    "Past-simple": "made",
+    "Past-participle": "made",
+    "-ing-Form": "making",
+    "frequency": 405084642,
+    "translation": {
+      "French": "fabriquer",
+      "Romanian": "a face"
+    }
+  },
+  {
+    "Base": "read",
+    "Past-simple": "read",
+    "Past-participle": "read",
+    "-ing-Form": "reading",
+    "frequency": 322331766,
+    "translation": {
+      "French": "lire",
+      "Romanian": "a citi"
+    }
+  },
+  {
+    "Base": "set",
+    "Past-simple": "set",
+    "Past-participle": "set",
+    "-ing-Form": "setting",
+    "frequency": 313469591,
+    "translation": {
+      "French": "fixer",
+      "Romanian": "a regla, a fixa"
+    }
+  },
+  {
+    "Base": "know",
+    "Past-simple": "knew",
+    "Past-participle": "known",
+    "-ing-Form": "knowing",
+    "frequency": 306100813,
+    "translation": {
+      "French": "savoir",
+      "Romanian": "a ști, a cunoaște"
+    }
+  },
+  {
+    "Base": "send",
+    "Past-simple": "sent",
+    "Past-participle": "sent",
+    "-ing-Form": "sending",
+    "frequency": 274103587,
+    "translation": {
+      "French": "envoyer",
+      "Romanian": "a trimite"
+    }
+  },
+  {
+    "Base": "take",
+    "Past-simple": "took",
+    "Past-participle": "taken",
+    "-ing-Form": "taking",
+    "frequency": 264349801,
+    "translation": {
+      "French": "prendre",
+      "Romanian": "a lua"
+    }
+  },
+  {
+    "Base": "show",
+    "Past-simple": "showed",
+    "Past-participle": "shown",
+    "-ing-Form": "showing",
+    "frequency": 247541986,
+    "translation": {
+      "French": "montrer",
+      "Romanian": "a arăta"
+    }
+  },
+  {
+    "Base": "think",
+    "Past-simple": "thought",
+    "Past-participle": "thought",
+    "-ing-Form": "thinking",
+    "frequency": 217856550,
+    "translation": {
+      "French": "penser",
+      "Romanian": "a gândi, a crede"
+    }
+  },
+  {
+    "Base": "learn",
+    "Past-simple": "learnt",
+    "Past-participle": "learnt",
+    "-ing-Form": "learning",
+    "frequency": 179428286,
+    "translation": {
+      "French": "apprendre",
+      "Romanian": "a învăța"
+    }
+  },
+  {
+    "Base": "cost",
+    "Past-simple": "cost",
+    "Past-participle": "cost",
+    "-ing-Form": "costing",
+    "frequency": 158887256,
+    "translation": {
+      "French": "coûter",
+      "Romanian": "a costa"
+    }
+  },
+  {
+    "Base": "say",
+    "Past-simple": "said",
+    "Past-participle": "said",
+    "-ing-Form": "saying",
+    "frequency": 156845267,
+    "translation": {
+      "French": "dire",
+      "Romanian": "a spune"
+    }
+  },
+  {
+    "Base": "come",
+    "Past-simple": "came",
+    "Past-participle": "come",
+    "-ing-Form": "coming",
+    "frequency": 154326119,
+    "translation": {
+      "French": "venir",
+      "Romanian": "a veni"
+    }
+  },
+  {
+    "Base": "let",
+    "Past-simple": "let",
+    "Past-participle": "let",
+    "-ing-Form": "letting",
+    "frequency": 143062438,
+    "translation": {
+      "French": "laisser",
+      "Romanian": "a lăsa, a permite"
+    }
+  },
+  {
+    "Base": "give",
+    "Past-simple": "gave",
+    "Past-participle": "given",
+    "-ing-Form": "giving",
+    "frequency": 140688602,
+    "translation": {
+      "French": "donner",
+      "Romanian": "a da"
+    }
+  },
+  {
+    "Base": "sell",
+    "Past-simple": "sold",
+    "Past-participle": "sold",
+    "-ing-Form": "selling",
+    "frequency": 137696613,
+    "translation": {
+      "French": "vendre",
+      "Romanian": "a vinde"
+    }
+  },
+  {
+    "Base": "pay",
+    "Past-simple": "paid",
+    "Past-participle": "paid",
+    "-ing-Form": "paying",
+    "frequency": 129198530,
+    "translation": {
+      "French": "payer",
+      "Romanian": "a plăti"
+    }
+  },
+  {
+    "Base": "light",
+    "Past-simple": "lit",
+    "Past-participle": "lit",
+    "-ing-Form": "lighting",
+    "frequency": 126699632,
+    "translation": {
+      "French": "éclairer",
+      "Romanian": "a aprinde"
+    }
+  },
+  {
+    "Base": "write",
+    "Past-simple": "wrote",
+    "Past-participle": "written",
+    "-ing-Form": "writing",
+    "frequency": 126645151,
+    "translation": {
+      "French": "écrire",
+      "Romanian": "a scrie"
+    }
+  },
+  {
+    "Base": "become",
+    "Past-simple": "became",
+    "Past-participle": "become",
+    "-ing-Form": "becoming",
+    "frequency": 120495036,
+    "translation": {
+      "French": "devenir",
+      "Romanian": "a deveni"
+    }
+  },
+  {
+    "Base": "keep",
+    "Past-simple": "kept",
+    "Past-participle": "kept",
+    "-ing-Form": "keeping",
+    "frequency": 119602514,
+    "translation": {
+      "French": "garder",
+      "Romanian": "a ține, a păstra"
+    }
+  },
+  {
+    "Base": "run",
+    "Past-simple": "ran",
+    "Past-participle": "run",
+    "-ing-Form": "running",
+    "frequency": 117213565,
+    "translation": {
+      "French": "courir",
+      "Romanian": "a alerga"
+    }
+  },
+  {
+    "Base": "put",
+    "Past-simple": "put",
+    "Past-participle": "put",
+    "-ing-Form": "putting",
+    "frequency": 115205090,
+    "translation": {
+      "French": "mettre",
+      "Romanian": "a pune"
+    }
+  },
+  {
+    "Base": "tell",
+    "Past-simple": "told",
+    "Past-participle": "told",
+    "-ing-Form": "telling",
+    "frequency": 109553730,
+    "translation": {
+      "French": "raconter",
+      "Romanian": "a spune, a povesti"
+    }
+  },
+  {
+    "Base": "drive",
+    "Past-simple": "drove",
+    "Past-participle": "driven",
+    "-ing-Form": "driving",
+    "frequency": 107799371,
+    "translation": {
+      "French": "conduire",
+      "Romanian": "a conduce mașina"
+    }
+  },
+  {
+    "Base": "meet",
+    "Past-simple": "met",
+    "Past-participle": "met",
+    "-ing-Form": "meeting",
+    "frequency": 93275872,
+    "translation": {
+      "French": "rencontrer",
+      "Romanian": "a întâlni"
+    }
+  },
+  {
+    "Base": "feel",
+    "Past-simple": "felt",
+    "Past-participle": "felt",
+    "-ing-Form": "feeling",
+    "frequency": 91924001,
+    "translation": {
+      "French": "sentir",
+      "Romanian": "a simți"
+    }
+  },
+  {
+    "Base": "choose",
+    "Past-simple": "chose",
+    "Past-participle": "chosen",
+    "-ing-Form": "choosing",
+    "frequency": 90010174,
+    "translation": {
+      "French": "choisir",
+      "Romanian": "a alege"
+    }
+  },
+  {
+    "Base": "speed",
+    "Past-simple": "sped/speeded",
+    "Past-participle": "sped",
+    "-ing-Form": "speeding",
+    "frequency": 83135749,
+    "translation": {
+      "French": "accélérer",
+      "Romanian": "a accelera"
+    }
+  },
+  {
+    "Base": "mean",
+    "Past-simple": "meant",
+    "Past-participle": "meant",
+    "-ing-Form": "meaning",
+    "frequency": 80312172,
+    "translation": {
+      "French": "signifier",
+      "Romanian": "a însemna"
+    }
+  },
+  {
+    "Base": "build",
+    "Past-simple": "built",
+    "Past-participle": "built",
+    "-ing-Form": "building",
+    "frequency": 77203075,
+    "translation": {
+      "French": "construire",
+      "Romanian": "a construi"
+    }
+  },
+  {
+    "Base": "leave",
+    "Past-simple": "left",
+    "Past-participle": "left",
+    "-ing-Form": "leaving",
+    "frequency": 70957750,
+    "translation": {
+      "French": "laisser",
+      "Romanian": "a părăsi, a pleca, a lăsa"
+    }
+  },
+  {
+    "Base": "bid",
+    "Past-simple": "bid",
+    "Past-participle": "bid",
+    "-ing-Form": "bidding",
+    "frequency": 70427114,
+    "translation": {
+      "French": "faire une offre",
+      "Romanian": "a face o ofertă, a promite"
+    }
+  },
+  {
+    "Base": "lead",
+    "Past-simple": "led",
+    "Past-participle": "led",
+    "-ing-Form": "leading",
+    "frequency": 68325439,
+    "translation": {
+      "French": "mener",
+      "Romanian": "a conduce"
+    }
+  },
+  {
+    "Base": "wed",
+    "Past-simple": "wed/wedded",
+    "Past-participle": "wed/wedded",
+    "-ing-Form": "wedding",
+    "frequency": 66796198,
+    "translation": {
+      "French": "se marier",
+      "Romanian": "a (se) căsători"
+    }
+  },
+  {
+    "Base": "fall",
+    "Past-simple": "fell",
+    "Past-participle": "fallen",
+    "-ing-Form": "falling",
+    "frequency": 65501110,
+    "translation": {
+      "French": "tomber",
+      "Romanian": "a cădea"
+    }
+  },
+  {
+    "Base": "win",
+    "Past-simple": "won",
+    "Past-participle": "won",
+    "-ing-Form": "winning",
+    "frequency": 65264239,
+    "translation": {
+      "French": "gagner",
+      "Romanian": "a câștiga"
+    }
+  },
+  {
+    "Base": "spring",
+    "Past-simple": "sprang",
+    "Past-participle": "sprung",
+    "-ing-Form": "springing",
+    "frequency": 64814116,
+    "translation": {
+      "French": "surgir",
+      "Romanian": "a sări"
+    }
+  },
+  {
+    "Base": "deal",
+    "Past-simple": "dealt",
+    "Past-participle": "dealt",
+    "-ing-Form": "dealing",
+    "frequency": 63828244,
+    "translation": {
+      "French": "négocier",
+      "Romanian": "a (se) ocupa (cu)"
+    }
+  },
+  {
+    "Base": "hold",
+    "Past-simple": "held",
+    "Past-participle": "held",
+    "-ing-Form": "holding",
+    "frequency": 63777575,
+    "translation": {
+      "French": "tenir",
+      "Romanian": "a ține"
+    }
+  },
+  {
+    "Base": "feed",
+    "Past-simple": "fed",
+    "Past-participle": "fed",
+    "-ing-Form": "feeding",
+    "frequency": 62663785,
+    "translation": {
+      "French": "nourrir",
+      "Romanian": "a hrăni"
+    }
+  },
+  {
+    "Base": "understand",
+    "Past-simple": "understood",
+    "Past-participle": "understood",
+    "-ing-Form": "understanding",
+    "frequency": 61719969,
+    "translation": {
+      "French": "comprendre",
+      "Romanian": "a înțelege"
+    }
+  },
+  {
+    "Base": "cut",
+    "Past-simple": "cut",
+    "Past-participle": "cut",
+    "-ing-Form": "cutting",
+    "frequency": 61337417,
+    "translation": {
+      "French": "couper",
+      "Romanian": "a tăia"
+    }
+  },
+  {
+    "Base": "bring",
+    "Past-simple": "brought",
+    "Past-participle": "brought",
+    "-ing-Form": "bringing",
+    "frequency": 57608074,
+    "translation": {
+      "French": "apporter",
+      "Romanian": "a aduce"
+    }
+  },
+  {
+    "Base": "ring",
+    "Past-simple": "rang",
+    "Past-participle": "rung",
+    "-ing-Form": "ringing",
+    "frequency": 54342432,
+    "translation": {
+      "French": "sonner",
+      "Romanian": "a suna"
+    }
+  },
+  {
+    "Base": "hit",
+    "Past-simple": "hit",
+    "Past-participle": "hit",
+    "-ing-Form": "hitting",
+    "frequency": 53171478,
+    "translation": {
+      "French": "frapper",
+      "Romanian": "a lovi"
+    }
+  },
+  {
+    "Base": "string",
+    "Past-simple": "strung",
+    "Past-participle": "strung",
+    "-ing-Form": "stringing",
+    "frequency": 52681344,
+    "translation": {
+      "French": "mettre des cordes",
+      "Romanian": "a înșira"
+    }
+  },
+  {
+    "Base": "break",
+    "Past-simple": "broke",
+    "Past-participle": "broken",
+    "-ing-Form": "breaking",
+    "frequency": 51242970,
+    "translation": {
+      "French": "casser",
+      "Romanian": "a sparge"
+    }
+  },
+  {
+    "Base": "saw",
+    "Past-simple": "sawed",
+    "Past-participle": "sawn/sawed",
+    "-ing-Form": "sawing",
+    "frequency": 48544776,
+    "translation": {
+      "French": "scier",
+      "Romanian": "a tăia cu ferestrăul"
+    }
+  },
+  {
+    "Base": "hear",
+    "Past-simple": "heard",
+    "Past-participle": "heard",
+    "-ing-Form": "hearing",
+    "frequency": 47426506,
+    "translation": {
+      "French": "entendre",
+      "Romanian": "a auzi"
+    }
+  },
+  {
+    "Base": "stand",
+    "Past-simple": "stood",
+    "Past-participle": "stood",
+    "-ing-Form": "standing",
+    "frequency": 46292709,
+    "translation": {
+      "French": "se tenir debout",
+      "Romanian": "a sta în picioare"
+    }
+  },
+  {
+    "Base": "begin",
+    "Past-simple": "began",
+    "Past-participle": "begun",
+    "-ing-Form": "beginning",
+    "frequency": 45434902,
+    "translation": {
+      "French": "commencer",
+      "Romanian": "a începe"
+    }
+  },
+  {
+    "Base": "wind",
+    "Past-simple": "wound",
+    "Past-participle": "wound",
+    "-ing-Form": "winding",
+    "frequency": 42974876,
+    "translation": {
+      "French": "enrouler",
+      "Romanian": "a răsuci, a întoarce"
+    }
+  },
+  {
+    "Base": "fit",
+    "Past-simple": "fit",
+    "Past-participle": "fit",
+    "-ing-Form": "fitting",
+    "frequency": 42342802,
+    "translation": {
+      "French": "s'adapter",
+      "Romanian": "a fi pe măsură"
+    }
+  },
+  {
+    "Base": "dream",
+    "Past-simple": "dreamt",
+    "Past-participle": "dreamt",
+    "-ing-Form": "dreaming",
+    "frequency": 33518573,
+    "translation": {
+      "French": "rêver",
+      "Romanian": "a visa"
+    }
+  },
+  {
+    "Base": "cast",
+    "Past-simple": "cast",
+    "Past-participle": "cast",
+    "-ing-Form": "casting",
+    "frequency": 33395024,
+    "translation": {
+      "French": "jeter",
+      "Romanian": "a arunca"
+    }
+  },
+  {
+    "Base": "bear",
+    "Past-simple": "bore",
+    "Past-participle": "born/borne",
+    "-ing-Form": "bearing",
+    "frequency": 31981362,
+    "translation": {
+      "French": "supporter",
+      "Romanian": "a naște"
+    }
+  },
+  {
+    "Base": "blow",
+    "Past-simple": "blew",
+    "Past-participle": "blown",
+    "-ing-Form": "blowing",
+    "frequency": 31344495,
+    "translation": {
+      "French": "souffler",
+      "Romanian": "a sufla, a bate"
+    }
+  },
+  {
+    "Base": "speak",
+    "Past-simple": "spoke",
+    "Past-participle": "spoken",
+    "-ing-Form": "speaking",
+    "frequency": 31324712,
+    "translation": {
+      "French": "parler",
+      "Romanian": "a vorbi"
+    }
+  },
+  {
+    "Base": "fight",
+    "Past-simple": "fought",
+    "Past-participle": "fought",
+    "-ing-Form": "fighting",
+    "frequency": 30784313,
+    "translation": {
+      "French": "combattre",
+      "Romanian": "a lupta"
+    }
+  },
+  {
+    "Base": "wear",
+    "Past-simple": "wore",
+    "Past-participle": "worn",
+    "-ing-Form": "wearing",
+    "frequency": 29846762,
+    "translation": {
+      "French": "porter",
+      "Romanian": "a purta"
+    }
+  },
+  {
+    "Base": "rise",
+    "Past-simple": "rose",
+    "Past-participle": "risen",
+    "-ing-Form": "rising",
+    "frequency": 29535295,
+    "translation": {
+      "French": "s'élever",
+      "Romanian": "a scăpa"
+    }
+  },
+  {
+    "Base": "sleep",
+    "Past-simple": "slept",
+    "Past-participle": "slept",
+    "-ing-Form": "sleeping",
+    "frequency": 29491537,
+    "translation": {
+      "French": "dormir",
+      "Romanian": "a dormi"
+    }
+  },
+  {
+    "Base": "drink",
+    "Past-simple": "drank",
+    "Past-participle": "drunk",
+    "-ing-Form": "drinking",
+    "frequency": 29254937,
+    "translation": {
+      "French": "boire",
+      "Romanian": "a bea"
+    }
+  },
+  {
+    "Base": "eat",
+    "Past-simple": "ate",
+    "Past-participle": "eaten",
+    "-ing-Form": "eating",
+    "frequency": 29237400,
+    "translation": {
+      "French": "manger",
+      "Romanian": "a mânca"
+    }
+  },
+  {
+    "Base": "fly",
+    "Past-simple": "flew",
+    "Past-participle": "flown",
+    "-ing-Form": "flying",
+    "frequency": 28279478,
+    "translation": {
+      "French": "voler",
+      "Romanian": "a zbura"
+    }
+  },
+  {
+    "Base": "beat",
+    "Past-simple": "beat",
+    "Past-participle": "beaten",
+    "-ing-Form": "beating",
+    "frequency": 27616668,
+    "translation": {
+      "French": "battre",
+      "Romanian": "a bate"
+    }
+  },
+  {
+    "Base": "hide",
+    "Past-simple": "hid",
+    "Past-participle": "hidden",
+    "-ing-Form": "hiding",
+    "frequency": 27157035,
+    "translation": {
+      "French": "cacher",
+      "Romanian": "a ascunde"
+    }
+  },
+  {
+    "Base": "spend",
+    "Past-simple": "spent",
+    "Past-participle": "spent",
+    "-ing-Form": "spending",
+    "frequency": 26713310,
+    "translation": {
+      "French": "dépenser",
+      "Romanian": "a cheltui, a petrece"
+    }
+  },
+  {
+    "Base": "grow",
+    "Past-simple": "grew",
+    "Past-participle": "grown",
+    "-ing-Form": "growing",
+    "frequency": 26701492,
+    "translation": {
+      "French": "grandir",
+      "Romanian": "a crește"
+    }
+  },
+  {
+    "Base": "ride",
+    "Past-simple": "rode",
+    "Past-participle": "ridden",
+    "-ing-Form": "riding",
+    "frequency": 26153004,
+    "translation": {
+      "French": "chevaucher",
+      "Romanian": "a călări"
+    }
+  },
+  {
+    "Base": "forget",
+    "Past-simple": "forgot",
+    "Past-participle": "forgotten",
+    "-ing-Form": "forgetting",
+    "frequency": 25162411,
+    "translation": {
+      "French": "oublier",
+      "Romanian": "a uita"
+    }
+  },
+  {
+    "Base": "spread",
+    "Past-simple": "spread",
+    "Past-participle": "spread",
+    "-ing-Form": "spreading",
+    "frequency": 24520573,
+    "translation": {
+      "French": "se propager",
+      "Romanian": "a întinde, a împrăștia"
+    }
+  },
+  {
+    "Base": "lose",
+    "Past-simple": "lost",
+    "Past-participle": "lost",
+    "-ing-Form": "losing",
+    "frequency": 24136984,
+    "translation": {
+      "French": "perdre",
+      "Romanian": "a pierde"
+    }
+  },
+  {
+    "Base": "seek",
+    "Past-simple": "sought",
+    "Past-participle": "sought",
+    "-ing-Form": "seeking",
+    "frequency": 24135344,
+    "translation": {
+      "French": "rechercher",
+      "Romanian": "a căuta"
+    }
+  },
+  {
+    "Base": "wet",
+    "Past-simple": "wet",
+    "Past-participle": "wet",
+    "-ing-Form": "wetting",
+    "frequency": 23918294,
+    "translation": {
+      "French": "mouiller",
+      "Romanian": "a uda"
+    }
+  },
+  {
+    "Base": "draw",
+    "Past-simple": "drew",
+    "Past-participle": "drawn",
+    "-ing-Form": "drawing",
+    "frequency": 22705371,
+    "translation": {
+      "French": "dessiner",
+      "Romanian": "a trage, a desena"
+    }
+  },
+  {
+    "Base": "stick",
+    "Past-simple": "stuck",
+    "Past-participle": "stuck",
+    "-ing-Form": "sticking",
+    "frequency": 22399126,
+    "translation": {
+      "French": "coller",
+      "Romanian": "a înfige, a se lipi"
+    }
+  },
+  {
+    "Base": "slide",
+    "Past-simple": "slid",
+    "Past-participle": "slid",
+    "-ing-Form": "sliding",
+    "frequency": 22339084,
+    "translation": {
+      "French": "glisser",
+      "Romanian": "a aluneca"
+    }
+  },
+  {
+    "Base": "catch",
+    "Past-simple": "caught",
+    "Past-participle": "caught",
+    "-ing-Form": "catching",
+    "frequency": 20400979,
+    "translation": {
+      "French": "attraper",
+      "Romanian": "a prinde"
+    }
+  },
+  {
+    "Base": "split",
+    "Past-simple": "split",
+    "Past-participle": "split",
+    "-ing-Form": "splitting",
+    "frequency": 19998411,
+    "translation": {
+      "French": "séparer",
+      "Romanian": "a despica"
+    }
+  },
+  {
+    "Base": "sit",
+    "Past-simple": "sat",
+    "Past-participle": "sat",
+    "-ing-Form": "sitting",
+    "frequency": 19797379,
+    "translation": {
+      "French": "s'asseoir",
+      "Romanian": "a sta, a ședea"
+    }
+  },
+  {
+    "Base": "teach",
+    "Past-simple": "taught",
+    "Past-participle": "taught",
+    "-ing-Form": "teaching",
+    "frequency": 19079783,
+    "translation": {
+      "French": "enseigner",
+      "Romanian": "a învăța, a preda"
+    }
+  },
+  {
+    "Base": "strip",
+    "Past-simple": "stript/stripped",
+    "Past-participle": "stript/stripped",
+    "-ing-Form": "stripping",
+    "frequency": 18711440,
+    "translation": {
+      "French": "déshabiller",
+      "Romanian": "a dezbrăca"
+    }
+  },
+  {
+    "Base": "strike",
+    "Past-simple": "struck",
+    "Past-participle": "struck",
+    "-ing-Form": "striking",
+    "frequency": 18621050,
+    "translation": {
+      "French": "frapper",
+      "Romanian": "a lovi"
+    }
+  },
+  {
+    "Base": "shoe",
+    "Past-simple": "shod",
+    "Past-participle": "shod",
+    "-ing-Form": "shoeing",
+    "frequency": 16342426,
+    "translation": {
+      "French": "chausser",
+      "Romanian": "a încălța"
+    }
+  },
+  {
+    "Base": "lay",
+    "Past-simple": "laid",
+    "Past-participle": "laid",
+    "-ing-Form": "laying",
+    "frequency": 16122690,
+    "translation": {
+      "French": "poser",
+      "Romanian": "a pune, a așeza"
+    }
+  },
+  {
+    "Base": "prove",
+    "Past-simple": "proved",
+    "Past-participle": "proven/proved",
+    "-ing-Form": "proving",
+    "frequency": 16046788,
+    "translation": {
+      "French": "prouver",
+      "Romanian": "a demonstra"
+    }
+  },
+  {
+    "Base": "bet",
+    "Past-simple": "bet",
+    "Past-participle": "bet",
+    "-ing-Form": "betting",
+    "frequency": 15943118,
+    "translation": {
+      "French": "parier",
+      "Romanian": "a paria"
+    }
+  },
+  {
+    "Base": "throw",
+    "Past-simple": "threw",
+    "Past-participle": "thrown",
+    "-ing-Form": "throwing",
+    "frequency": 15751985,
+    "translation": {
+      "French": "lancer",
+      "Romanian": "a arunca"
+    }
+  },
+  {
+    "Base": "wake",
+    "Past-simple": "woke",
+    "Past-participle": "woken",
+    "-ing-Form": "waking",
+    "frequency": 14120141,
+    "translation": {
+      "French": "se réveiller",
+      "Romanian": "a se trezi"
+    }
+  },
+  {
+    "Base": "burn",
+    "Past-simple": "burnt",
+    "Past-participle": "burnt",
+    "-ing-Form": "burning",
+    "frequency": 13602754,
+    "translation": {
+      "French": "brûler",
+      "Romanian": "a arde"
+    }
+  },
+  {
+    "Base": "lie",
+    "Past-simple": "lay",
+    "Past-participle": "lain",
+    "-ing-Form": "lying",
+    "frequency": 13533542,
+    "translation": {
+      "French": "s'allonger",
+      "Romanian": "a fi culcat"
+    }
+  },
+  {
+    "Base": "hurt",
+    "Past-simple": "hurt",
+    "Past-participle": "hurt",
+    "-ing-Form": "hurting",
+    "frequency": 12936269,
+    "translation": {
+      "French": "blesser",
+      "Romanian": "a lovi, a răni, a durea"
+    }
+  },
+  {
+    "Base": "swing",
+    "Past-simple": "swung",
+    "Past-participle": "swung",
+    "-ing-Form": "swinging",
+    "frequency": 12734467,
+    "translation": {
+      "French": "se balancer",
+      "Romanian": "a balansa"
+    }
+  },
+  {
+    "Base": "shoot",
+    "Past-simple": "shot",
+    "Past-participle": "shot",
+    "-ing-Form": "shooting",
+    "frequency": 12695618,
+    "translation": {
+      "French": "tirer",
+      "Romanian": "a împușca"
+    }
+  },
+  {
+    "Base": "spin",
+    "Past-simple": "span",
+    "Past-participle": "spun",
+    "-ing-Form": "spinning",
+    "frequency": 12671696,
+    "translation": {
+      "French": "tourner",
+      "Romanian": "a învârti, a roti, a toarce"
+    }
+  },
+  {
+    "Base": "shut",
+    "Past-simple": "shut",
+    "Past-participle": "shut",
+    "-ing-Form": "shutting",
+    "frequency": 11689186,
+    "translation": {
+      "French": "fermer / éteindre",
+      "Romanian": "a închide"
+    }
+  },
+  {
+    "Base": "sing",
+    "Past-simple": "sang",
+    "Past-participle": "sung",
+    "-ing-Form": "singing",
+    "frequency": 11114001,
+    "translation": {
+      "French": "chanter",
+      "Romanian": "a cânta"
+    }
+  },
+  {
+    "Base": "hang",
+    "Past-simple": "hung",
+    "Past-participle": "hung",
+    "-ing-Form": "hanging",
+    "frequency": 11077672,
+    "translation": {
+      "French": "pendre",
+      "Romanian": "a spânzura, a atârna"
+    }
+  },
+  {
+    "Base": "mistake",
+    "Past-simple": "mistook",
+    "Past-participle": "mistaken",
+    "-ing-Form": "mistaking",
+    "frequency": 10841486,
+    "translation": {
+      "French": "se méprendre",
+      "Romanian": "a greși"
+    }
+  },
+  {
+    "Base": "quit",
+    "Past-simple": "quit",
+    "Past-participle": "quit",
+    "-ing-Form": "quitting",
+    "frequency": 10324803,
+    "translation": {
+      "French": "arrêter",
+      "Romanian": "a părăsi, a pleca"
+    }
+  },
+  {
+    "Base": "bend",
+    "Past-simple": "bent",
+    "Past-participle": "bent",
+    "-ing-Form": "bending",
+    "frequency": 9342191,
+    "translation": {
+      "French": "plier",
+      "Romanian": "a îndoi, a curba"
+    }
+  },
+  {
+    "Base": "swim",
+    "Past-simple": "swam",
+    "Past-participle": "swum",
+    "-ing-Form": "swimming",
+    "frequency": 8739102,
+    "translation": {
+      "French": "nager",
+      "Romanian": "a înota"
+    }
+  },
+  {
+    "Base": "spell",
+    "Past-simple": "spelt",
+    "Past-participle": "spelt",
+    "-ing-Form": "spelling",
+    "frequency": 8506049,
+    "translation": {
+      "French": "épeler",
+      "Romanian": "a pronunța literă cu literă"
+    }
+  },
+  {
+    "Base": "arise",
+    "Past-simple": "arose",
+    "Past-participle": "arisen",
+    "-ing-Form": "arising",
+    "frequency": 8337093,
+    "translation": {
+      "French": "survenir",
+      "Romanian": "a se ridica"
+    }
+  },
+  {
+    "Base": "dive",
+    "Past-simple": "dived/dove",
+    "Past-participle": "dived",
+    "-ing-Form": "diving",
+    "frequency": 8254655,
+    "translation": {
+      "French": "plonger",
+      "Romanian": "a (se) scufunda"
+    }
+  },
+  {
+    "Base": "sink",
+    "Past-simple": "sank",
+    "Past-participle": "sunk",
+    "-ing-Form": "sinking",
+    "frequency": 8120590,
+    "translation": {
+      "French": "couler",
+      "Romanian": "a se scufunda"
+    }
+  },
+  {
+    "Base": "rid",
+    "Past-simple": "rid/ridded",
+    "Past-participle": "rid/ridded",
+    "-ing-Form": "ridding",
+    "frequency": 7877480,
+    "translation": {
+      "French": "débarrasser",
+      "Romanian": "a scăpa de"
+    }
+  },
+  {
+    "Base": "breed",
+    "Past-simple": "bred",
+    "Past-participle": "bred",
+    "-ing-Form": "breeding",
+    "frequency": 7716901,
+    "translation": {
+      "French": "se reproduire",
+      "Romanian": "a crește, a educa"
+    }
+  },
+  {
+    "Base": "dig",
+    "Past-simple": "dug",
+    "Past-participle": "dug",
+    "-ing-Form": "digging",
+    "frequency": 7292787,
+    "translation": {
+      "French": "creuser",
+      "Romanian": "a săpa"
+    }
+  },
+  {
+    "Base": "shake",
+    "Past-simple": "shook",
+    "Past-participle": "shaken",
+    "-ing-Form": "shaking",
+    "frequency": 6839319,
+    "translation": {
+      "French": "secouer",
+      "Romanian": "a scutura, a clătina"
+    }
+  },
+  {
+    "Base": "shed",
+    "Past-simple": "shed",
+    "Past-participle": "shed",
+    "-ing-Form": "shedding",
+    "frequency": 6720397,
+    "translation": {
+      "French": "verser",
+      "Romanian": "a năpârli"
+    }
+  },
+  {
+    "Base": "bind",
+    "Past-simple": "bound",
+    "Past-participle": "bound",
+    "-ing-Form": "binding",
+    "frequency": 6677053,
+    "translation": {
+      "French": "lier",
+      "Romanian": "a lega"
+    }
+  },
+  {
+    "Base": "smell",
+    "Past-simple": "smelt/smelled",
+    "Past-participle": "smelt/smelled",
+    "-ing-Form": "smelling",
+    "frequency": 6642666,
+    "translation": {
+      "French": "sentir (une odeur)",
+      "Romanian": "a mirosi"
+    }
+  },
+  {
+    "Base": "lean",
+    "Past-simple": "leant",
+    "Past-participle": "leant",
+    "-ing-Form": "leaning",
+    "frequency": 6431362,
+    "translation": {
+      "French": "pencher",
+      "Romanian": "a se apleca, a se sprijini"
+    }
+  },
+  {
+    "Base": "steal",
+    "Past-simple": "stole",
+    "Past-participle": "stolen",
+    "-ing-Form": "stealing",
+    "frequency": 6257493,
+    "translation": {
+      "French": "dérober",
+      "Romanian": "a fura"
+    }
+  },
+  {
+    "Base": "bite",
+    "Past-simple": "bit",
+    "Past-participle": "bitten",
+    "-ing-Form": "biting",
+    "frequency": 6058201,
+    "translation": {
+      "French": "mordre",
+      "Romanian": "a mușca"
+    }
+  },
+  {
+    "Base": "shine",
+    "Past-simple": "shone",
+    "Past-participle": "shone",
+    "-ing-Form": "shining",
+    "frequency": 5881862,
+    "translation": {
+      "French": "briller",
+      "Romanian": "a străluci"
+    }
+  },
+  {
+    "Base": "zinc",
+    "Past-simple": "zinced/zincked",
+    "Past-participle": "zinced/zincked",
+    "-ing-Form": "zincking",
+    "frequency": 5671140,
+    "translation": {
+      "French": "zinguer",
+      "Romanian": "a zinca"
+    }
+  },
+  {
+    "Base": "undertake",
+    "Past-simple": "undertook",
+    "Past-participle": "undertaken",
+    "-ing-Form": "undertaking",
+    "frequency": 5613443,
+    "translation": {
+      "French": "entreprendre",
+      "Romanian": "a asuma, a întreprinde, a garanta"
+    }
+  },
+  {
+    "Base": "tear",
+    "Past-simple": "tore",
+    "Past-participle": "torn",
+    "-ing-Form": "tearing",
+    "frequency": 5605530,
+    "translation": {
+      "French": "pleurer",
+      "Romanian": "a rupe, a sfâșia"
+    }
+  },
+  {
+    "Base": "upset",
+    "Past-simple": "upset",
+    "Past-participle": "upset",
+    "-ing-Form": "upsetting",
+    "frequency": 5544484,
+    "translation": {
+      "French": "bouleverser",
+      "Romanian": "a tulbura, a supăra"
+    }
+  },
+  {
+    "Base": "freeze",
+    "Past-simple": "froze",
+    "Past-participle": "frozen",
+    "-ing-Form": "freezing",
+    "frequency": 5526731,
+    "translation": {
+      "French": "geler",
+      "Romanian": "a îngheța"
+    }
+  },
+  {
+    "Base": "burst",
+    "Past-simple": "burst",
+    "Past-participle": "burst",
+    "-ing-Form": "bursting",
+    "frequency": 5147573,
+    "translation": {
+      "French": "éclater",
+      "Romanian": "a izbucni, a năvăli, a crăpa"
+    }
+  },
+  {
+    "Base": "knit",
+    "Past-simple": "knit",
+    "Past-participle": "knit",
+    "-ing-Form": "knitting",
+    "frequency": 5113070,
+    "translation": {
+      "French": "tricoter",
+      "Romanian": "a tricota (cu spițe)"
+    }
+  },
+  {
+    "Base": "leap",
+    "Past-simple": "leapt/leaped",
+    "Past-participle": "leapt/leaped",
+    "-ing-Form": "leaping",
+    "frequency": 4767538,
+    "translation": {
+      "French": "bondir",
+      "Romanian": "a sări"
+    }
+  },
+  {
+    "Base": "withdraw",
+    "Past-simple": "withdrew",
+    "Past-participle": "withdrawn",
+    "-ing-Form": "withdrawing",
+    "frequency": 4652948,
+    "translation": {
+      "French": "se rétracter",
+      "Romanian": "a retrage"
+    }
+  },
+  {
+    "Base": "sweat",
+    "Past-simple": "sweat/sweated",
+    "Past-participle": "sweat/sweated",
+    "-ing-Form": "sweating",
+    "frequency": 4551615,
+    "translation": {
+      "French": "suer",
+      "Romanian": "a transpira"
+    }
+  },
+  {
+    "Base": "bust",
+    "Past-simple": "bust/busted",
+    "Past-participle": "bust/busted",
+    "-ing-Form": "busting",
+    "frequency": 4547742,
+    "translation": {
+      "French": "bousiller",
+      "Romanian": "a aresta"
+    }
+  },
+  {
+    "Base": "strive",
+    "Past-simple": "strove",
+    "Past-participle": "striven",
+    "-ing-Form": "striving",
+    "frequency": 4152261,
+    "translation": {
+      "French": "s'efforcer",
+      "Romanian": "a se strădui"
+    }
+  },
+  {
+    "Base": "spill",
+    "Past-simple": "spilt",
+    "Past-participle": "spilt",
+    "-ing-Form": "spilling",
+    "frequency": 3890646,
+    "translation": {
+      "French": "renverser",
+      "Romanian": "a vărsa"
+    }
+  },
+  {
+    "Base": "abide",
+    "Past-simple": "abode/abided",
+    "Past-participle": "abode/abided/abidden",
+    "-ing-Form": "abiding",
+    "frequency": 3722809,
+    "translation": {
+      "French": "demeurer",
+      "Romanian": "a respecta"
+    }
+  },
+  {
+    "Base": "sweep",
+    "Past-simple": "swept",
+    "Past-participle": "swept",
+    "-ing-Form": "sweeping",
+    "frequency": 3623863,
+    "translation": {
+      "French": "balayer",
+      "Romanian": "a mătura"
+    }
+  },
+  {
+    "Base": "thrust",
+    "Past-simple": "thrust",
+    "Past-participle": "thrust",
+    "-ing-Form": "thrusting",
+    "frequency": 3500671,
+    "translation": {
+      "French": "pousser",
+      "Romanian": "a împinge"
+    }
+  },
+  {
+    "Base": "forgive",
+    "Past-simple": "forgave",
+    "Past-participle": "forgiven",
+    "-ing-Form": "forgiving",
+    "frequency": 3379266,
+    "translation": {
+      "French": "pardonner",
+      "Romanian": "a ierta"
+    }
+  },
+  {
+    "Base": "shrink",
+    "Past-simple": "shrank",
+    "Past-participle": "shrunk",
+    "-ing-Form": "shrinking",
+    "frequency": 3261118,
+    "translation": {
+      "French": "rétrécir",
+      "Romanian": "a se strânge, a micșora"
+    }
+  },
+  {
+    "Base": "awake",
+    "Past-simple": "awoke",
+    "Past-participle": "awoken",
+    "-ing-Form": "awaking",
+    "frequency": 3230337,
+    "translation": {
+      "French": "se réveiller",
+      "Romanian": "a se trezi"
+    }
+  },
+  {
+    "Base": "melt",
+    "Past-simple": "melted",
+    "Past-participle": "molten/melted",
+    "-ing-Form": "melting",
+    "frequency": 3153948,
+    "translation": {
+      "French": "fondre",
+      "Romanian": "a topi"
+    }
+  },
+  {
+    "Base": "swear",
+    "Past-simple": "swore",
+    "Past-participle": "sworn",
+    "-ing-Form": "swearing",
+    "frequency": 3082372,
+    "translation": {
+      "French": "jurer",
+      "Romanian": "a jura, a înjura"
+    }
+  },
+  {
+    "Base": "lend",
+    "Past-simple": "lent",
+    "Past-participle": "lent",
+    "-ing-Form": "lending",
+    "frequency": 2926360,
+    "translation": {
+      "French": "prêter",
+      "Romanian": "a împrumuta (cuiva)"
+    }
+  },
+  {
+    "Base": "shear",
+    "Past-simple": "shore/sheared",
+    "Past-participle": "shorn/sheared",
+    "-ing-Form": "shearing",
+    "frequency": 2886210,
+    "translation": {
+      "French": "tondre",
+      "Romanian": "a tunde"
+    }
+  },
+  {
+    "Base": "behold",
+    "Past-simple": "beheld",
+    "Past-participle": "beheld",
+    "-ing-Form": "beholding",
+    "frequency": 2847118,
+    "translation": {
+      "French": "contempler",
+      "Romanian": "a privi"
+    }
+  },
+  {
+    "Base": "sting",
+    "Past-simple": "stung",
+    "Past-participle": "stung",
+    "-ing-Form": "stinging",
+    "frequency": 2773263,
+    "translation": {
+      "French": "piquer",
+      "Romanian": "a înțepa"
+    }
+  },
+  {
+    "Base": "undergo",
+    "Past-simple": "underwent",
+    "Past-participle": "undergone",
+    "-ing-Form": "undergoing",
+    "frequency": 2620082,
+    "translation": {
+      "French": "subir",
+      "Romanian": "a suferi"
+    }
+  },
+  {
+    "Base": "shave",
+    "Past-simple": "shaved",
+    "Past-participle": "shaven",
+    "-ing-Form": "shaving",
+    "frequency": 2580057,
+    "translation": {
+      "French": "se raser",
+      "Romanian": "a bărbieri"
+    }
+  },
+  {
+    "Base": "grind",
+    "Past-simple": "ground",
+    "Past-participle": "ground",
+    "-ing-Form": "grinding",
+    "frequency": 2482307,
+    "translation": {
+      "French": "broyer",
+      "Romanian": "a măcina"
+    }
+  },
+  {
+    "Base": "sneak",
+    "Past-simple": "sneaked/snuck",
+    "Past-participle": "sneaked/snuck",
+    "-ing-Form": "sneaking",
+    "frequency": 2280877,
+    "translation": {
+      "French": "se faufiler",
+      "Romanian": "a se strecura, a se furișa"
+    }
+  },
+  {
+    "Base": "swell",
+    "Past-simple": "swelled",
+    "Past-participle": "swollen",
+    "-ing-Form": "swelling",
+    "frequency": 2213445,
+    "translation": {
+      "French": "gonfler",
+      "Romanian": "a se umfla"
+    }
+  },
+  {
+    "Base": "spit",
+    "Past-simple": "spat",
+    "Past-participle": "spat",
+    "-ing-Form": "spitting",
+    "frequency": 2069895,
+    "translation": {
+      "French": "cracher",
+      "Romanian": "a scuipa"
+    }
+  },
+  {
+    "Base": "dwell",
+    "Past-simple": "dwelt",
+    "Past-participle": "dwelt",
+    "-ing-Form": "dwelling",
+    "frequency": 2014411,
+    "translation": {
+      "French": "habiter",
+      "Romanian": "a locui, a trăi"
+    }
+  },
+  {
+    "Base": "bleed",
+    "Past-simple": "bled",
+    "Past-participle": "bled",
+    "-ing-Form": "bleeding",
+    "frequency": 1989071,
+    "translation": {
+      "French": "saigner",
+      "Romanian": "a sângera"
+    }
+  },
+  {
+    "Base": "weave",
+    "Past-simple": "wove",
+    "Past-participle": "woven",
+    "-ing-Form": "weaving",
+    "frequency": 1965230,
+    "translation": {
+      "French": "tisser",
+      "Romanian": "a țese"
+    }
+  },
+  {
+    "Base": "thrive",
+    "Past-simple": "throve/thrived",
+    "Past-participle": "thriven/thrived",
+    "-ing-Form": "thriving",
+    "frequency": 1822797,
+    "translation": {
+      "French": "prospérer",
+      "Romanian": "a prospera"
+    }
+  },
+  {
+    "Base": "creep",
+    "Past-simple": "crept",
+    "Past-participle": "crept",
+    "-ing-Form": "creeping",
+    "frequency": 1811981,
+    "translation": {
+      "French": "ramper",
+      "Romanian": "a (se) târâ"
+    }
+  },
+  {
+    "Base": "sew",
+    "Past-simple": "sewed",
+    "Past-participle": "sewn/sewed",
+    "-ing-Form": "sewing",
+    "frequency": 1756454,
+    "translation": {
+      "French": "coudre",
+      "Romanian": "a coase"
+    }
+  },
+  {
+    "Base": "withstand",
+    "Past-simple": "withstood",
+    "Past-participle": "withstood",
+    "-ing-Form": "withstanding",
+    "frequency": 1730101,
+    "translation": {
+      "French": "résister à",
+      "Romanian": "a rezista"
+    }
+  },
+  {
+    "Base": "flee",
+    "Past-simple": "fled",
+    "Past-participle": "fled",
+    "-ing-Form": "fleeing",
+    "frequency": 1724638,
+    "translation": {
+      "French": "fuire",
+      "Romanian": "a fugi din"
+    }
+  },
+  {
+    "Base": "sling",
+    "Past-simple": "slung",
+    "Past-participle": "slung",
+    "-ing-Form": "slinging",
+    "frequency": 1688770,
+    "translation": {
+      "French": "lancer",
+      "Romanian": "a arunca"
+    }
+  },
+  {
+    "Base": "tread",
+    "Past-simple": "trod",
+    "Past-participle": "trodden",
+    "-ing-Form": "treading",
+    "frequency": 1672572,
+    "translation": {
+      "French": "marcher / fouler",
+      "Romanian": "a călca"
+    }
+  },
+  {
+    "Base": "preset",
+    "Past-simple": "preset",
+    "Past-participle": "preset",
+    "-ing-Form": "presetting",
+    "frequency": 1656205,
+    "translation": {
+      "French": "prérégler",
+      "Romanian": "a preseta"
+    }
+  },
+  {
+    "Base": "stride",
+    "Past-simple": "strode/strided",
+    "Past-participle": "stridden",
+    "-ing-Form": "striding",
+    "frequency": 1546387,
+    "translation": {
+      "French": "marcher à grand pas",
+      "Romanian": "a păși"
+    }
+  },
+  {
+    "Base": "slit",
+    "Past-simple": "slit",
+    "Past-participle": "slit",
+    "-ing-Form": "slitting",
+    "frequency": 1424036,
+    "translation": {
+      "French": "fendre",
+      "Romanian": "a tăia"
+    }
+  },
+  {
+    "Base": "spoil",
+    "Past-simple": "spoilt",
+    "Past-participle": "spoilt",
+    "-ing-Form": "spoiling",
+    "frequency": 1419320,
+    "translation": {
+      "French": "gâcher",
+      "Romanian": "a strica"
+    }
+  },
+  {
+    "Base": "sow",
+    "Past-simple": "sowed",
+    "Past-participle": "sown",
+    "-ing-Form": "sowing",
+    "frequency": 1282086,
+    "translation": {
+      "French": "semer",
+      "Romanian": "a semăna"
+    }
+  },
+  {
+    "Base": "withhold",
+    "Past-simple": "withheld",
+    "Past-participle": "withheld",
+    "-ing-Form": "withholding",
+    "frequency": 1201289,
+    "translation": {
+      "French": "refuser",
+      "Romanian": "a reține"
+    }
+  },
+  {
+    "Base": "forbid",
+    "Past-simple": "forbade",
+    "Past-participle": "forbidden",
+    "-ing-Form": "forbidding",
+    "frequency": 1184790,
+    "translation": {
+      "French": "interdire",
+      "Romanian": "a interzice"
+    }
+  },
+  {
+    "Base": "weep",
+    "Past-simple": "wept",
+    "Past-participle": "wept",
+    "-ing-Form": "weeping",
+    "frequency": 1038608,
+    "translation": {
+      "French": "pleurer",
+      "Romanian": "a plânge"
+    }
+  },
+  {
+    "Base": "inlay",
+    "Past-simple": "inlaid",
+    "Past-participle": "inlaid",
+    "-ing-Form": "inlaying",
+    "frequency": 965778,
+    "translation": {
+      "French": "incuster",
+      "Romanian": "a încrusta"
+    }
+  },
+  {
+    "Base": "cling",
+    "Past-simple": "clung",
+    "Past-participle": "clung",
+    "-ing-Form": "clinging",
+    "frequency": 946281,
+    "translation": {
+      "French": "s'accrocher",
+      "Romanian": "a (se) agăța"
+    }
+  },
+  {
+    "Base": "stink",
+    "Past-simple": "stank",
+    "Past-participle": "stunk",
+    "-ing-Form": "stinking",
+    "frequency": 872742,
+    "translation": {
+      "French": "puer",
+      "Romanian": "a pute, a mirosi (urât)"
+    }
+  },
+  {
+    "Base": "slay",
+    "Past-simple": "slew",
+    "Past-participle": "slain",
+    "-ing-Form": "slaying",
+    "frequency": 702325,
+    "translation": {
+      "French": "tuer",
+      "Romanian": "a ucide"
+    }
+  },
+  {
+    "Base": "fling",
+    "Past-simple": "flung",
+    "Past-participle": "flung",
+    "-ing-Form": "flinging",
+    "frequency": 682999,
+    "translation": {
+      "French": "lancer",
+      "Romanian": "a arunca"
+    }
+  },
+  {
+    "Base": "mislead",
+    "Past-simple": "misled",
+    "Past-participle": "misled",
+    "-ing-Form": "misleading",
+    "frequency": 643671,
+    "translation": {
+      "French": "induire en erreur",
+      "Romanian": "a induce în eroare"
+    }
+  },
+  {
+    "Base": "foresee",
+    "Past-simple": "foresaw",
+    "Past-participle": "foreseen",
+    "-ing-Form": "foreseeing",
+    "frequency": 615358,
+    "translation": {
+      "French": "prévoir",
+      "Romanian": "a prevedea"
+    }
+  },
+  {
+    "Base": "mow",
+    "Past-simple": "mowed",
+    "Past-participle": "mown",
+    "-ing-Form": "mowing",
+    "frequency": 517690,
+    "translation": {
+      "French": "tondre",
+      "Romanian": "a cosi"
+    }
+  },
+  {
+    "Base": "overtake",
+    "Past-simple": "overtook",
+    "Past-participle": "overtaken",
+    "-ing-Form": "overtaking",
+    "frequency": 498189,
+    "translation": {
+      "French": "dépasser",
+      "Romanian": "a depăși"
+    }
+  },
+  {
+    "Base": "sunburn",
+    "Past-simple": "sunburned/sunburnt",
+    "Past-participle": "sunburned/sunburnt",
+    "-ing-Form": "sunburning",
+    "frequency": 474135,
+    "translation": {
+      "French": "prendre un coup de soleil",
+      "Romanian": "arsuri solare"
+    }
+  },
+  {
+    "Base": "sublet",
+    "Past-simple": "sublet",
+    "Past-participle": "sublet",
+    "-ing-Form": "subletting",
+    "frequency": 436128,
+    "translation": {
+      "French": "sous-louer",
+      "Romanian": "a subînchiria"
+    }
+  },
+  {
+    "Base": "kneel",
+    "Past-simple": "knelt",
+    "Past-participle": "knelt",
+    "-ing-Form": "kneeling",
+    "frequency": 417602,
+    "translation": {
+      "French": "s'agenouiller",
+      "Romanian": "a îngenunchea"
+    }
+  },
+  {
+    "Base": "rive",
+    "Past-simple": "rived",
+    "Past-participle": "riven/rived",
+    "-ing-Form": "riving",
+    "frequency": 386682,
+    "translation": {
+      "French": "déchirer",
+      "Romanian": "a despica, a rupe"
+    }
+  },
+  {
+    "Base": "forsake",
+    "Past-simple": "forsook",
+    "Past-participle": "forsaken",
+    "-ing-Form": "forsaking",
+    "frequency": 359114,
+    "translation": {
+      "French": "abandonner",
+      "Romanian": "a părăsi"
+    }
+  },
+  {
+    "Base": "misunderstand",
+    "Past-simple": "misunderstood",
+    "Past-participle": "misunderstood",
+    "-ing-Form": "misunderstanding",
+    "frequency": 313613,
+    "translation": {
+      "French": "mal comprendre",
+      "Romanian": "a înțelege greșit"
+    }
+  },
+  {
+    "Base": "clothe",
+    "Past-simple": "clad/clothed",
+    "Past-participle": "clad/clothed",
+    "-ing-Form": "clothing",
+    "frequency": 308351,
+    "translation": {
+      "French": "habiller, vêtir",
+      "Romanian": "a (se) îmbrăca, a înveșmânta"
+    }
+  },
+  {
+    "Base": "vex",
+    "Past-simple": "vext/vexed",
+    "Past-participle": "vext/vexed",
+    "-ing-Form": "vexing",
+    "frequency": 287473,
+    "translation": {
+      "French": "contrarier",
+      "Romanian": "a enerva"
+    }
+  },
+  {
+    "Base": "frostbite",
+    "Past-simple": "frostbit",
+    "Past-participle": "frostbitten",
+    "-ing-Form": "frostbiting",
+    "frequency": 277548,
+    "translation": {
+      "French": "avois des engelures",
+      "Romanian": "a (se) degera"
+    }
+  },
+  {
+    "Base": "alight",
+    "Past-simple": "alit/alighted",
+    "Past-participle": "alit/alighted",
+    "-ing-Form": "alighting",
+    "frequency": 261720,
+    "translation": {
+      "French": "descendre",
+      "Romanian": "a coborî"
+    }
+  },
+  {
+    "Base": "slink",
+    "Past-simple": "slunk",
+    "Past-participle": "slunk",
+    "-ing-Form": "slinking",
+    "frequency": 196197,
+    "translation": {
+      "French": "se faufiler",
+      "Romanian": "a furișa"
+    }
+  },
+  {
+    "Base": "wring",
+    "Past-simple": "wrung",
+    "Past-participle": "wrung",
+    "-ing-Form": "wringing",
+    "frequency": 188579,
+    "translation": {
+      "French": "tordre",
+      "Romanian": "a răsuci"
+    }
+  },
+  {
+    "Base": "wend",
+    "Past-simple": "wended/went",
+    "Past-participle": "wended/went",
+    "-ing-Form": "wending",
+    "frequency": 120037,
+    "translation": {
+      "French": "se rendre",
+      "Romanian": "a merge, a se îndrepta"
+    }
+  },
+  {
+    "Base": "overhear",
+    "Past-simple": "overheard",
+    "Past-participle": "overheard",
+    "-ing-Form": "overhearing",
+    "frequency": 97704,
+    "translation": {
+      "French": "surprendre",
+      "Romanian": "a auzi"
+    }
+  },
+  {
+    "Base": "overdraw",
+    "Past-simple": "overdrew",
+    "Past-participle": "overdrawn",
+    "-ing-Form": "overdrawing",
+    "frequency": 23187,
+    "translation": {
+      "French": "mettre à découvert",
+      "Romanian": "a supratrage"
+    }
+  },
+  {
+    "Base": "handwrite",
+    "Past-simple": "handwrote",
+    "Past-participle": "handwritten",
+    "-ing-Form": "handwriting",
+    "frequency": 21641,
+    "translation": {
+      "French": "écrire à la main",
+      "Romanian": "a scrie de mână"
+    }
+  }
+]
